@@ -10,7 +10,7 @@ If you are interested in our work, please star ⭐ this repository.
 
 ## News
 
-- [2025/10/25] The T2I-RiskyPrompt paper is accepted on AAAI 2026: [arXiv:2510.22300](https://arxiv.org/abs/2510.22300).
+- [2025/11/9] The T2I-RiskyPrompt paper is accepted on AAAI 2026: [arXiv:2510.22300](https://arxiv.org/abs/2510.22300).
 
 ---
 
@@ -73,4 +73,5 @@ If you find T2I-RiskyPrompt useful in your research, please cite our work:
   year    = {2025}
 }
 ```
+
 
